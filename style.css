@@ -1,3 +1,10 @@
 h1, p {
   font-family: Lato;
 }
+.signUp{
+  width: fit-content;
+  position: relative;
+  display: block;
+  padding-right: 10px;
+  margin-right: 10px;
+}
